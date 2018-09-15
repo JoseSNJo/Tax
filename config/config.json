@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "UNAME",
+    "password": "PASSWORD",
+    "database": "DB",
+    "host": "HOST",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": true,
+      "timezone":"+05:30"
+    }
+  },
+  "test": {
+    "username": "UNAME",
+    "password": "PASSWORD",
+    "database": "DB",
+    "host": "HOST",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": true,
+      "timezone":"+05:30"
+    }
+  },
+  "production": {
+    "username": "UNAME",
+    "password": "PASSWORD",
+    "database": "DB",
+    "host": "HOST",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": true,
+      "timezone":"+05:30"
+    }
+  }
+}
